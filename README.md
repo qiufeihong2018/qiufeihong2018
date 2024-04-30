@@ -1,4 +1,6 @@
-<p align="center"><a href="https://qiufeihong2018.github.io"><img width="80%" alt="Hello, I'm David. I do open source!" src="./assets/gh-readme-header.jpeg" /></a></p>
+<p align="center"><a href="https://qiufeihong2018.github.io">
+<img width="80%" alt="Hello, I'm David. I do open source!" src="./assets/gh-readme-header.jpeg" />
+</a></p>
 <br />
 <p align="center">
     <b><a href="https://juejin.cn/user/1099167358268392">掘金</a></b>
@@ -9,7 +11,7 @@ I'm a self-taught passionate FrontEnd developer from China 🇨🇳
 <br />
 I love programming, reading, writing and sharing.
 
-### About me
+### 😯 About me
 
 - 💼 FrontEnd Engineer at [Aliyun](https://www.aliyun.com/)
 
