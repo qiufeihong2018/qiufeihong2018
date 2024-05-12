@@ -28,11 +28,11 @@ I love programming, reading, writing and sharing.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4268](https://github.com/antvis/X6/issues/4268#issuecomment-2106174680) in [antvis/X6](https://github.com/antvis/X6)
-2. 💪 Opened PR [#4299](https://github.com/antvis/X6/pull/4299) in [antvis/X6](https://github.com/antvis/X6)
-3. 🗣 Commented on [#4297](https://github.com/antvis/X6/issues/4297#issuecomment-2106168910) in [antvis/X6](https://github.com/antvis/X6)
-4. 🗣 Commented on [#4297](https://github.com/antvis/X6/issues/4297#issuecomment-2106168300) in [antvis/X6](https://github.com/antvis/X6)
-5. 🗣 Commented on [#4297](https://github.com/antvis/X6/issues/4297#issuecomment-2106167033) in [antvis/X6](https://github.com/antvis/X6)
+1. 🗣 Commented on [#3944](https://github.com/antvis/X6/issues/3944#issuecomment-2106223061) in [antvis/X6](https://github.com/antvis/X6)
+2. 🗣 Commented on [#4268](https://github.com/antvis/X6/issues/4268#issuecomment-2106174680) in [antvis/X6](https://github.com/antvis/X6)
+3. 💪 Opened PR [#4299](https://github.com/antvis/X6/pull/4299) in [antvis/X6](https://github.com/antvis/X6)
+4. 🗣 Commented on [#4297](https://github.com/antvis/X6/issues/4297#issuecomment-2106168910) in [antvis/X6](https://github.com/antvis/X6)
+5. 🗣 Commented on [#4297](https://github.com/antvis/X6/issues/4297#issuecomment-2106168300) in [antvis/X6](https://github.com/antvis/X6)
 <!--END_SECTION:activity-->
 
 ### 💻 Coding Time
