@@ -17,7 +17,7 @@ I love programming, reading, writing and sharing.
 
 - 📈 Built datafe/reactgrid, silevis/reactgrid, navigation-web and more
 
-- 🌱 I am currently reading silevis/reactgrid and antvis/X6 source code and PR on these repositories.
+- 🌱 I am currently reading react, silevis/reactgrid and antvis/X6 source code and PR on these repositories.
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
